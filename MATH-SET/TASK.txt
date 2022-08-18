@@ -1,0 +1,6 @@
+7. Implement the set type which contains integers. Represent the set as a sequence of its 
+elements. Implement as methods: inserting an element, removing an element, 
+returning whether the set is empty, returning whether the set contains an element, 
+returning a random element without removing it from the set, returning the sum of the 
+numbers in the set (suggestion: store the sum and update it when the set changes), 
+printing the set.
